@@ -1,0 +1,335 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: Century Gothic;
+}
+header{
+    background-image:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url();
+    height: 200vh;
+    background-size: cover;
+    background-position: centre;
+}
+ul{
+    float: right;
+    list-style-type: none;
+    margin-top: 25px;
+}
+ul li{
+display: inline-block;
+}
+ul li a{
+text-decoration: none;
+color: #fff;
+padding: 5px 20px;
+border: 1px solid transparent;
+transition: 0.6s ease;
+}
+ul li a:hover{
+background-color: #fff;
+color: #000;
+}
+ul li.active a{
+background-color: #fff;
+color: #000;
+}
+.logo img{
+float: left;
+width: 140px;
+height: auto
+}
+.main{
+max-width: 1200px;
+margin: auto;
+}
+.title{
+position: absolute;
+top: 30%;
+left: 50%;
+transform: translate(-50%,-50%);
+color: #fff;
+}
+.title1{
+position: absolute;
+top: 80%;
+left: 50%;
+transform: translate(-50%,-50%);
+color: #fff;
+}
+.button{
+position: absolute;
+top: 30%;
+left: 50%;
+transform: translate(-50%,-50%);
+}
+.btn{
+border: 1px solid #fff;
+padding: 10px 30px;
+color: #fff;
+text-decoration: none;
+transition: 0.6s ease;
+list-style-type: none;
+}
+.btn:hover{
+background-color: #fff;
+color: #000;
+}
+.button1{
+position: absolute;
+top: 280%;
+left: 50%;
+transform: translate(-50%,-50%);
+}
+.btn1{
+border: 1px solid #fff;
+padding: 10px 30px;
+color: #fff;
+text-decoration: none;
+transition: 0.6s ease;
+list-style-type: none;
+}
+.btn1:hover{
+background-color: #fff;
+color: #000;
+}
+.button2{
+position: absolute;
+top: 280%;
+left: 50%;
+transform: translate(-50%,-50%);
+}
+.btn2{
+border: 1px solid #fff;
+padding: 10px 30px;
+color: #fff;
+text-decoration: none;
+transition: 0.6s ease;
+list-style-type: none;
+}
+.btn2:hover{
+background-color: #fff;
+color: #000;
+}
+.button3{
+position: absolute;
+top: 280%;
+left: 50%;
+transform: translate(-50%,-50%);
+}
+.btn3{
+border: 1px solid #fff;
+padding: 10px 30px;
+color: #fff;
+text-decoration: none;
+transition: 0.6s ease;
+list-style-type: none;
+}
+.btn3:hover{
+background-color: #fff;
+color: #000;
+}
+.button4{
+position: absolute;
+top: 280%;
+left: 50%;
+transform: translate(-50%,-50%);
+}
+.btn4{
+border: 1px solid #fff;
+padding: 10px 30px;
+color: #fff;
+text-decoration: none;
+transition: 0.6s ease;
+list-style-type: none;
+}
+.btn4:hover{
+background-color: #fff;
+color: #000;
+}
+.button5{
+position: absolute;
+top: 280%;
+left: 50%;
+transform: translate(-50%,-50%);
+}
+.btn5{
+border: 1px solid #fff;
+padding: 10px 30px;
+color: #fff;
+text-decoration: none;
+transition: 0.6s ease;
+list-style-type: none;
+}
+.btn5:hover{
+background-color: #fff;
+color: #000;
+}
+.button6{
+position: absolute;
+top: 280%;
+left: 50%;
+transform: translate(-50%,-50%);
+}
+.btn6
+{
+border: 1px solid #fff;
+padding: 10px 30px;
+color: #fff;
+text-decoration: none;
+transition: 0.6s ease;
+list-style-type: none;
+}
+.btn6:hover{
+background-color: #fff;
+color: #000;
+}
+.button7{
+position: absolute;
+top: 280%;
+left: 50%;
+transform: translate(-50%,-50%);
+}
+.btn7{
+border: 1px solid #fff;
+padding: 10px 30px;
+color: #fff;
+text-decoration: none;
+transition: 0.6s ease;
+list-style-type: none;
+}
+.btn7:hover{
+background-color: #fff;
+color: #000;
+}
+.button8{
+    position: absolute;
+    top: 280%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    }
+    .btn8{
+    border: 1px solid #fff;
+    padding: 10px 30px;
+    color: #fff;
+    text-decoration: none;
+    transition: 0.6s ease;
+    list-style-type: none;
+    }
+    .btn8:hover{
+    background-color: #fff;
+    color: #000;
+    }
+    .button9{
+        position: absolute;
+        top: 280%;
+        left: 50%;
+        transform: translate(-50%,-50%);
+        }
+        .btn9{
+        border: 1px solid #fff;
+        padding: 10px 30px;
+        color: #fff;
+        text-decoration: none;
+        transition: 0.6s ease;
+        list-style-type: none;
+        }
+        .btn9:hover{
+        background-color: #fff;
+        color: #000;
+        }
+        .button10{
+            position: absolute;
+            top: 280%;
+            left: 50%;
+            transform: translate(-50%,-50%);
+            }
+            .btn10{
+            border: 1px solid #fff;
+            padding: 10px 30px;
+            color: #fff;
+            text-decoration: none;
+            transition: 0.6s ease;
+            list-style-type: none;
+            }
+            .btn10:hover{
+            background-color: #fff;
+            color: #000;
+            }
+            .button11{
+                position: absolute;
+                top: 280%;
+                left: 50%;
+                transform: translate(-50%,-50%);
+                }
+                .btn11{
+                border: 1px solid #fff;
+                padding: 10px 30px;
+                color: #fff;
+                text-decoration: none;
+                transition: 0.6s ease;
+                list-style-type: none;
+                }
+                .btn11:hover{
+                background-color: #fff;
+                color: #000;
+                }
+                .button12{
+                    position: absolute;
+                    top: 280%;
+                    left: 50%;
+                    transform: translate(-50%,-50%);
+                    }
+                    .btn12{
+                    border: 1px solid #fff;
+                    padding: 10px 30px;
+                    color: #fff;
+                    text-decoration: none;
+                    transition: 0.6s ease;
+                    list-style-type: none;
+                    }
+                    .btn12:hover{
+                    background-color: #fff;
+                    color: #000;
+                    }
+                    .button13{
+                        position: absolute;
+                        top: 280%;
+                        left: 50%;
+                        transform: translate(-50%,-50%);
+                        }
+                        .btn13{
+                        border: 1px solid #fff;
+                        padding: 10px 30px;
+                        color: #fff;
+                        text-decoration: none;
+                        transition: 0.6s ease;
+                        list-style-type: none;
+                        }
+                        .btn13:hover{
+                        background-color: #fff;
+                        color: #000;
+                        }
+                        .button14{
+                            position: absolute;
+                            top: 280%;
+                            left: 50%;
+                            transform: translate(-50%,-50%);
+                            }
+                            .btn14{
+                            border: 1px solid #fff;
+                            padding: 10px 30px;
+                            color: #fff;
+                            text-decoration: none;
+                            transition: 0.6s ease;
+                            list-style-type: none;
+                            }
+                            .btn14:hover{
+                            background-color: #fff;
+                            color: #000;
+                            }
+
+
+
+
+
+
+
